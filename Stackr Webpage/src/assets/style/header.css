@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* ------------ header css ------------*/
+header {
+    background-color:black;
+    height: 100%;
+    width: auto;
+    overflow: hidden;
+    padding: 8px 10px;
+
+}
+
+
+header #icon {
+    height:65px; 
+    float:left;    
+    margin-left: 9%
+}
+
+header #title {
+    margin: 0px;
+    position: relative;
+    top: 18px;
+    font-family: Montserrat bold;
+    font-size: 26px;
+    left: 10px;
+    color:white;
+    
+    
+}
+#button{
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    float:right;
+
+  
+  
+  }
+  #button button{
+    font-family: Montserrat;
+    border:none;
+    background: none;
+    color:rgba(158, 155, 155, 0.959);
+    font-size: 0.9rem;
+    border: 1px dotted rgba(245, 243, 243, 0.747);
+    cursor: pointer;
+    border-radius: 2px;
+    padding: 6px;
+    position: relative;
+    right: 100px;
+    top:4px;
+    
+    
+  }
+  
+  #button button:hover{
+    color:white;
+  }
+
+  #button button:focus{
+    background-color: white;
+    color:black;
+  }
+  
+/* --------------- button css ------------ */
+
+
+@media all and (max-width:30em){
+    #button{
+        display: inline-block;
+        margin:0.2em auto;
+        right:-60px;
+    }
+    header #icon {
+        margin-left: 3.5%
+    }
+    
+
+}
+
+/* ------- entire body css ---- */
+
+

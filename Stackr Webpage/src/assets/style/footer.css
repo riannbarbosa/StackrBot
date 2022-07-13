@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+/* -------- footer section ------------ */
+
+footer {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 50px;
+  color: #fff;
+  background-color: #010913;
+}
+ footer ul {
+  list-style: none;
+  margin:0;
+  padding: 0 0 15px;
+  border:0;
+}
+footer li {
+  list-style-type: none;
+  line-height: 2rem;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+  
+  
+}
+footer a {
+  text-decoration: none;
+  
+
+  color: #b3bac2; 
+
+}
+
+footer > * {
+  flex: 1 100%;
+}
+
+
+h2 {
+  font-size: 1rem;
+  margin:0;
+  
+  
+}
+
+#wrapper {
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+  margin-bottom: auto;
+
+  
+}
+
+.Cright {
+  display: border-box;
+}
+.copy {
+  margin: 0;
+  padding: 0;
+
+  position: relative;
+  top: 20px;
+  font-family: Montserrat;
+  font-size: 0.8rem;
+}
+.copy2{
+  padding: 0;
+  position: relative;
+  top: 20px;
+  font-family: Montserrat;
+  font-size: 0.76rem;
+  opacity: 0.8;
+
+
+}
+
