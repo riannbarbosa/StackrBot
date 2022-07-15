@@ -30,8 +30,21 @@ It's pretty simple
 
 ### 2. Commands
 
-Stackr gives you just one command, you can call by typing /stack, after just write your question 
-and hit enter that Stackr will you give to you a max 8 of questions 
+Stackr gives you just one command, you can call by typing ``` /stack ``` with the following argument ``` flow ```, after just write your question 
+and hit enter that Stackr will you give to you a max 8 of questions. See below:
+
+<img src="https://iili.io/wjNJrQ.md.png" alt="wjNJrQ.md.png" border="0">
+
+But if you don't get any responses, the bot will send the following message:
+
+<img src="https://iili.io/wjNAvI.png" alt="wjNAvI.png" border="0">
 
 
-## plz star this project repo 
+## 🎫 Licence
+
+This project is licensed under the license terms GNU General Public License v3.0 ([GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)) and it's available for free.
+
+
+
+
+<h2> plz star this project repo ⭐:) </h2>
