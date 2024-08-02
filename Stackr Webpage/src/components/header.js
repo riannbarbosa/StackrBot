@@ -30,8 +30,6 @@ function Header() {
             </button>
           </div>
         </nav>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9520981581604534"
-     crossorigin="anonymous"></script>
       </header>
     </div>
   );
